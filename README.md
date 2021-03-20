@@ -8,3 +8,6 @@
     <br>Learning and doing my best 💪🏻.
     <br>Nice to meet you all 💛!
 </p>
+<hr>
+<p align="center">
+  I'm on <a href="https://twitter.com/itsanei">Twitter</a> 🐤 & at carolinarjona@gmail.com ✉.
